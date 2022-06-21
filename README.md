@@ -1,4 +1,15 @@
-Hi 👋 My name is Asad Nabi ==========================  Software Engineer with interests in ML & AI 📟 ----------------------------------------------  I’m a student at Cornell studying Computer and Data Science 💻 I am passionate about innovative solutions driven by big data, AI, and machine learning with real impact 🚀 I am particularly passionate about leveraging software to push sustainability and mitigate climate risks 🦎🌴  * 🌍  I'm based in New York * ✉️  You can contact me at [an448@cornell.edu](mailto:an448@cornell.edu) * 🧠  I'm learning more about NodeJS and more backend work * ⚡  Ask me about personal goals and cool travel spots 😃⛰
+Hi 👋 My name is Asad Nabi
+==========================
+
+Software Engineer with interests in ML & AI 📟
+----------------------------------------------
+
+I’m a student at Cornell University 🐻 studying Computer and Data Science 💻 I am passionate about innovative solutions driven by big data, AI, and machine learning with real impact 🚀 I am particularly passionate about leveraging software to push sustainability and mitigate climate risks 🦎🌴
+
+*   🌍  I'm based in New York
+*   ✉️  You can contact me at [an448@cornell.edu](mailto:an448@cornell.edu)
+*   🧠  I'm currently learning more about NodeJS and honing my backend dev knowledge
+*   ⚡  Ask me about personal goals and cool travel spots 
 
 ### Skills
 
