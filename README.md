@@ -9,7 +9,7 @@ I’m a student at Cornell University 🐻 studying Computer and Data Science �
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [an448@cornell.edu](mailto:an448@cornell.edu)
 *   🧠  I'm currently learning more about NodeJS and honing my backend dev knowledge
-*   ⚡  Ask me about personal goals and cool travel spots 
+*   ⚡  Ask me about personal goals, cool travel spots and beautiful views around NY
 
 ### Skills
 
